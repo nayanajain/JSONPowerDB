@@ -11,6 +11,17 @@
 - It is low level (raw) form of data and is also human readable.
 - It helps developers in faster coding, in-turn reduces development cost.
 
+### Use Cases
+- All Mobile applications that require backend database.
+- Session Caching.
+- Page Caching.
+- Existing Database applications to improve their reporting / analytics performance.
+- Best suited as backend Database for IoT.
+- Live HTML templates / themes.
+- Any software application that needs backend database.
+
+
+### For more reference refer to http://login2explore.com/jpdb/docs.html
 ### Screenshots:
 
 ![Dashboard](https://github.com/nayanajain/JSONPowerDB/blob/main/Assets/Screenshots/Form.PNG)
