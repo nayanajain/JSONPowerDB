@@ -13,3 +13,13 @@
 
 ### Screenshots:
 
+![Dashboard](https://github.com/nayanajain/JSONPowerDB/blob/main/Assets/Screenshots/Form.PNG)
+
+#Dashboard
+![Dashboard](https://github.com/nayanajain/JSONPowerDB/blob/main/Assets/Screenshots/picture.PNG)
+
+#JSONPowerDB
+![Dashboard](https://github.com/nayanajain/JSONPowerDB/blob/main/Assets/Screenshots/JSONDatabase.PNG)
+
+
+
